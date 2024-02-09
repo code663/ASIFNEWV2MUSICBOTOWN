@@ -71,14 +71,14 @@ def stream_markup_timer(_, chat_id, played, dur):
 
                 text="✪ʟɪꜰᴇ✪",
 
-                url=f"https://t.me/BESTODISHA",
+                url=f"https://t.me/IND_PAWAN",
 
             ),
             InlineKeyboardButton(
 
                 text="✪ᴊᴀɴɴ✪",
 
-                url=f"https://t.me/ARAME9",
+                url=f"https://t.me/ANGEL_K_WORLD",
 
             ),
         ],
@@ -111,14 +111,14 @@ def stream_markup(_, chat_id):
 
                 text="✪ʟɪꜰᴇ✪",
 
-                url=f"https://t.me/BESTODISHA",
+                url=f"https://t.me/IND_PAWAN",
 
             ),
             InlineKeyboardButton(
 
                 text="✪ᴊᴀɴɴ✪",
 
-                url=f"https://t.me/ARAME9",
+                url=f"https://t.me/ANGEL_K_WORLD",
 
             ),
         ],
