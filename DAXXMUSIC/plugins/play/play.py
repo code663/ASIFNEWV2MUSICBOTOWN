@@ -4,7 +4,7 @@ import string
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup, InputMediaPhoto, Message
 from pytgcalls.exceptions import NoActiveGroupCall
-
+import random 
 import config
 from DAXXMUSIC import Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, app
 from DAXXMUSIC.core.call import DAXX
